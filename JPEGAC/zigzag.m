@@ -1,0 +1,3 @@
+function out=zigzag(in) %% input a 8x8 DCT matrix and output "only its AC terms" in zigzag sequence
+    out=[in(1,2),in(2,1),in(3,1),in(2,2),in(1,3),in(1,4),in(2,3),in(3,2),in(4,1),in(5,1),in(4,2),in(3,3),in(2,4),in(1,5),in(1,6),in(2,5),in(3,4),in(4,3),in(5,2),in(6,1),in(7,1),in(6,2),in(5,3),in(4,4),in(3,5),in(2,6),in(1,7),in(1,8),in(2,7),in(3,6),in(4,5),in(5,4),in(6,3),in(7,2),in(8,1),in(8,2),in(7,3),in(6,4),in(5,5),in(4,6),in(3,7),in(2,8),in(3,8),in(4,7),in(5,6),in(6,5),in(7,4),in(8,3),in(8,4),in(7,5),in(6,6),in(5,7),in(4,8),in(5,8),in(6,7),in(7,6),in(8,5),in(8,6),in(7,7),in(6,8),in(7,8),in(8,7),in(8,8)];
+end

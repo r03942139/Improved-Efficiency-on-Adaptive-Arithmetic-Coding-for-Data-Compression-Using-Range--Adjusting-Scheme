@@ -1,0 +1,7 @@
+This inter-prediction is work on  IPPPP.....PPP, which is composed of 1 intra prediction and 149 inter prediction. 149 vector maps are generated subsequently.
+
+Based on this motion vector map,
+the mean of inter_PSNR(2:149) = 37.6095
+
+[Def] 
+inter_PSNR(k): combine frame(k-1) and MV_map(k-1) to generate a pred_frame, and then calculate  PSNR(pred_frame, frame(k));
