@@ -2,7 +2,7 @@
 This is the MATLAB implementation scripts of our publication 
 "Improved Efficiency on Adaptive Arithmetic Coding for Data Compression Using Range- Adjusting Scheme, Increasingly Adjusting Step, and Mutual-Learning Scheme" 
 Published in: IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 28 , Issue: 12 , Dec. 2018 )
-[Link] (https://ieeexplore.ieee.org/document/8026179)
+[Link](https://ieeexplore.ieee.org/document/8026179)
 
 ## Authors
 
