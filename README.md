@@ -1,14 +1,14 @@
 # Improved Efficiency on Adaptive Arithmetic Coding for Data Compression Using Range-Adjusting Scheme, Increasingly Adjusting Step, and Mutual-Learning Scheme
 This is the MATLAB implementation scripts of our publication 
 "Improved Efficiency on Adaptive Arithmetic Coding for Data Compression Using Range- Adjusting Scheme, Increasingly Adjusting Step, and Mutual-Learning Scheme" 
-Published in: IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 28 , Issue: 12 , Dec. 2018 )
-[Link](https://ieeexplore.ieee.org/document/8026179)
+Published in: IEEE Asia Pacific Conference on Circuits and Systems (2018)
+[Link](https://ieeexplore.ieee.org/document/8605600)
 
 ## Authors
 
-* **Jian-Jiun Ding** - Professor, National Taiwan University
-* **I-Hsiang Wang** - [LinkedIn](https://www.linkedin.com/in/i-hsiang-wang-672237166/)
 * **Hung-Yi Chen** - [GitHub](https://github.com/r03942139) - [LinkedIn](https://www.linkedin.com/in/hung-yi-chen-958616118/)
+* **Jian-Jiun Ding** - Professor, National Taiwan University
+* **Yih-Cherng Lee** - Research Assistant, National Taiwan University
 
 ## Acknowledgments
 
