@@ -6,9 +6,9 @@ Published in: IEEE Asia Pacific Conference on Circuits and Systems (2018)
 
 ## Authors
 
-* **Hung-Yi Chen** - [GitHub](https://github.com/r03942139) - [LinkedIn](https://www.linkedin.com/in/hung-yi-chen-958616118/)
 * **Jian-Jiun Ding** - Professor, National Taiwan University
-* **Yih-Cherng Lee** - Research Assistant, National Taiwan University
+* **I-Hsiang Wang** - [LinkedIn](https://www.linkedin.com/in/i-hsiang-wang-672237166/)
+* **Hung-Yi Chen** - [GitHub](https://github.com/r03942139) - [LinkedIn](https://www.linkedin.com/in/hung-yi-chen-958616118/)
 
 ## Acknowledgments
 
